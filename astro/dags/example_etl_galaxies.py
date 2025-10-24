@@ -7,6 +7,8 @@ function, filters the data based on the distance from the Milky Way, and loads t
 filtered data into a DuckDB database.
 """
 
+#test
+
 from airflow.decorators import (
     dag,
     task,
